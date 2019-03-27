@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quotes on Adventures Unknown</title>
+    <link>https://josh.buhler.me/tags/quotes/</link>
+    <description>Recent content in Quotes on Adventures Unknown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Nov 2018 13:18:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://josh.buhler.me/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What matters.</title>
+      <link>https://josh.buhler.me/post/what-matters/</link>
+      <pubDate>Sun, 04 Nov 2018 13:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/post/what-matters/</guid>
+      <description>Find out what makes you kinder, what opens you up and brings out the most loving, generous, and unafraid version of you — and go after those things as if nothing else matters.
+Because, actually, nothing else does.
+— George Saunders</description>
+    </item>
+    
+    <item>
+      <title>Cecret Lake</title>
+      <link>https://josh.buhler.me/post/cecret-lake/</link>
+      <pubDate>Sun, 23 Jul 2017 13:07:37 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/post/cecret-lake/</guid>
+      <description>The quieter you become, the more you can hear.
+– Ram Dass</description>
+    </item>
+    
+  </channel>
+</rss>

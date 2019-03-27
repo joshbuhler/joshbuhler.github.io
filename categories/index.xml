@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Adventures Unknown</title>
+    <link>https://josh.buhler.me/categories/</link>
+    <description>Recent content in Categories on Adventures Unknown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://josh.buhler.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Life</title>
+      <link>https://josh.buhler.me/categories/life/</link>
+      <pubDate>Sun, 04 Nov 2018 13:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://josh.buhler.me/categories/photos/</link>
+      <pubDate>Sun, 23 Jul 2017 13:07:37 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/categories/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio</title>
+      <link>https://josh.buhler.me/categories/radio/</link>
+      <pubDate>Tue, 11 Sep 2018 00:09:55 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/categories/radio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://josh.buhler.me/categories/travel/</link>
+      <pubDate>Fri, 26 Oct 2018 14:00:22 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

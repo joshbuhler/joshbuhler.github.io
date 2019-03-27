@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ham Radio on Adventures Unknown</title>
+    <link>https://josh.buhler.me/tags/ham-radio/</link>
+    <description>Recent content in Ham Radio on Adventures Unknown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Sep 2018 00:09:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://josh.buhler.me/tags/ham-radio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Another 100 Miles of Heaven and Hell</title>
+      <link>https://josh.buhler.me/post/another-100-miles-of-heaven-and-hell/</link>
+      <pubDate>Tue, 11 Sep 2018 00:09:55 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/post/another-100-miles-of-heaven-and-hell/</guid>
+      <description>Clearly I&amp;rsquo;m terrible at posting on a regular basis, as it&amp;rsquo;s been over a year since my last post. But once again, I recently had the opportunity to help with communications for the Wasatch Front 100 Mile Endurance Run.
+This year was very similar to last year, but we still had a lot of fun.</description>
+    </item>
+    
+    <item>
+      <title>100 Miles of Heaven and Hell…</title>
+      <link>https://josh.buhler.me/post/100-miles-of-heaven-and-hell/</link>
+      <pubDate>Wed, 13 Sep 2017 14:42:10 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/post/100-miles-of-heaven-and-hell/</guid>
+      <description>This weekend I had the opportunity to help out with some communications for the Wasatch Front 100 Mile Endurance Run. Just like the name says, it’s a 100 mile race, and the course has folks running from East Mountain Wilderness Park near Kaysville, UT down to Soldier Hollow in Wasatch Mountain State Park.</description>
+    </item>
+    
+  </channel>
+</rss>

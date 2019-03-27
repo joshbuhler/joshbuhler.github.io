@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ghost Towns on Adventures Unknown</title>
+    <link>https://josh.buhler.me/tags/ghost-towns/</link>
+    <description>Recent content in Ghost Towns on Adventures Unknown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Oct 2016 19:59:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://josh.buhler.me/tags/ghost-towns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blacks Fork, UT</title>
+      <link>https://josh.buhler.me/post/blacks-fork-ut/</link>
+      <pubDate>Sun, 23 Oct 2016 19:59:37 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/post/blacks-fork-ut/</guid>
+      <description>Fall break this year has been a bit of a staycation for us. Sleeping in, working on projects around the house, and just hanging out. One day, we took the Bronco for a drive up to the Uintas, just cruising up the Mirror Lake Highway.</description>
+    </item>
+    
+    <item>
+      <title>Ghost Town Tour 2016</title>
+      <link>https://josh.buhler.me/post/ghost-town-tour-2016/</link>
+      <pubDate>Fri, 15 Apr 2016 19:16:13 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/post/ghost-town-tour-2016/</guid>
+      <description>“Well, they’re either out here lost too, or they’re out to murder us. Both seem likely right now.”
+Luckily, the folks following us around the trails west of Milford, UT weren’t out to murder us that night, and as a result, I’m still here to tell this story.</description>
+    </item>
+    
+  </channel>
+</rss>
