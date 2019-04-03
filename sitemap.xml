@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://josh.buhler.me/post/tirebox/</loc>
+    <lastmod>2019-04-02T20:18:19+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://josh.buhler.me/post/what-matters/</loc>
     <lastmod>2018-11-04T13:18:19+00:00</lastmod>
   </url>
@@ -84,13 +89,13 @@
   
   <url>
     <loc>https://josh.buhler.me/</loc>
-    <lastmod>2018-11-04T13:18:19+00:00</lastmod>
+    <lastmod>2019-04-02T20:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/tags/camping/</loc>
-    <lastmod>2018-10-26T14:00:22+00:00</lastmod>
+    <lastmod>2019-04-02T20:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -130,6 +135,12 @@
   </url>
   
   <url>
+    <loc>https://josh.buhler.me/tags/off-road/</loc>
+    <lastmod>2019-04-02T20:18:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://josh.buhler.me/categories/photos/</loc>
     <lastmod>2017-07-23T13:07:37+00:00</lastmod>
     <priority>0</priority>
@@ -137,7 +148,13 @@
   
   <url>
     <loc>https://josh.buhler.me/post/</loc>
-    <lastmod>2018-11-04T13:18:19+00:00</lastmod>
+    <lastmod>2019-04-02T20:18:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josh.buhler.me/tags/projects/</loc>
+    <lastmod>2019-04-02T20:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -161,7 +178,13 @@
   
   <url>
     <loc>https://josh.buhler.me/tags/</loc>
-    <lastmod>2018-10-26T14:00:22+00:00</lastmod>
+    <lastmod>2019-04-02T20:18:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josh.buhler.me/categories/the-garage/</loc>
+    <lastmod>2019-04-02T20:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   

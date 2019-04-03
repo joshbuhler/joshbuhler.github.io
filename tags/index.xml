@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Adventures Unknown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Oct 2018 14:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2019 20:18:19 +0000</lastBuildDate>
     
 	<atom:link href="https://josh.buhler.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Camping</title>
       <link>https://josh.buhler.me/tags/camping/</link>
-      <pubDate>Fri, 26 Oct 2018 14:00:22 +0000</pubDate>
+      <pubDate>Tue, 02 Apr 2019 20:18:19 +0000</pubDate>
       
       <guid>https://josh.buhler.me/tags/camping/</guid>
       <description></description>
@@ -53,6 +53,24 @@
       <pubDate>Sun, 23 Jul 2017 13:07:37 +0000</pubDate>
       
       <guid>https://josh.buhler.me/tags/hiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off-Road</title>
+      <link>https://josh.buhler.me/tags/off-road/</link>
+      <pubDate>Tue, 02 Apr 2019 20:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/tags/off-road/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://josh.buhler.me/tags/projects/</link>
+      <pubDate>Tue, 02 Apr 2019 20:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/tags/projects/</guid>
       <description></description>
     </item>
     
