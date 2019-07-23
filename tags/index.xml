@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Adventures Unknown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Apr 2019 20:18:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 20:18:19 +0000</lastBuildDate>
     
 	<atom:link href="https://josh.buhler.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Control4</title>
+      <link>https://josh.buhler.me/tags/control4/</link>
+      <pubDate>Mon, 22 Jul 2019 20:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/tags/control4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIY</title>
+      <link>https://josh.buhler.me/tags/diy/</link>
+      <pubDate>Mon, 22 Jul 2019 20:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/tags/diy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home Automation</title>
+      <link>https://josh.buhler.me/tags/home-automation/</link>
+      <pubDate>Mon, 22 Jul 2019 20:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/tags/home-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://josh.buhler.me/tags/projects/</link>
+      <pubDate>Mon, 22 Jul 2019 20:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/tags/projects/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Camping</title>
@@ -17,6 +53,24 @@
       <pubDate>Tue, 02 Apr 2019 20:18:19 +0000</pubDate>
       
       <guid>https://josh.buhler.me/tags/camping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off-Road</title>
+      <link>https://josh.buhler.me/tags/off-road/</link>
+      <pubDate>Tue, 02 Apr 2019 20:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/tags/off-road/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quotes</title>
+      <link>https://josh.buhler.me/tags/quotes/</link>
+      <pubDate>Sun, 04 Nov 2018 13:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/tags/quotes/</guid>
       <description></description>
     </item>
     
@@ -30,11 +84,20 @@
     </item>
     
     <item>
-      <title>Ghost Towns</title>
-      <link>https://josh.buhler.me/tags/ghost-towns/</link>
-      <pubDate>Sun, 23 Oct 2016 19:59:37 +0000</pubDate>
+      <title>Utah</title>
+      <link>https://josh.buhler.me/tags/utah/</link>
+      <pubDate>Fri, 26 Oct 2018 14:00:22 +0000</pubDate>
       
-      <guid>https://josh.buhler.me/tags/ghost-towns/</guid>
+      <guid>https://josh.buhler.me/tags/utah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scouts</title>
+      <link>https://josh.buhler.me/tags/scouts/</link>
+      <pubDate>Wed, 24 Oct 2018 01:33:13 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/tags/scouts/</guid>
       <description></description>
     </item>
     
@@ -57,47 +120,11 @@
     </item>
     
     <item>
-      <title>Off-Road</title>
-      <link>https://josh.buhler.me/tags/off-road/</link>
-      <pubDate>Tue, 02 Apr 2019 20:18:19 +0000</pubDate>
+      <title>Ghost Towns</title>
+      <link>https://josh.buhler.me/tags/ghost-towns/</link>
+      <pubDate>Sun, 23 Oct 2016 19:59:37 +0000</pubDate>
       
-      <guid>https://josh.buhler.me/tags/off-road/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://josh.buhler.me/tags/projects/</link>
-      <pubDate>Tue, 02 Apr 2019 20:18:19 +0000</pubDate>
-      
-      <guid>https://josh.buhler.me/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quotes</title>
-      <link>https://josh.buhler.me/tags/quotes/</link>
-      <pubDate>Sun, 04 Nov 2018 13:18:19 +0000</pubDate>
-      
-      <guid>https://josh.buhler.me/tags/quotes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scouts</title>
-      <link>https://josh.buhler.me/tags/scouts/</link>
-      <pubDate>Wed, 24 Oct 2018 01:33:13 +0000</pubDate>
-      
-      <guid>https://josh.buhler.me/tags/scouts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Utah</title>
-      <link>https://josh.buhler.me/tags/utah/</link>
-      <pubDate>Fri, 26 Oct 2018 14:00:22 +0000</pubDate>
-      
-      <guid>https://josh.buhler.me/tags/utah/</guid>
+      <guid>https://josh.buhler.me/tags/ghost-towns/</guid>
       <description></description>
     </item>
     

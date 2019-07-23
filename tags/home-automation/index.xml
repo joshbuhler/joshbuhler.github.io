@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home Automation on Adventures Unknown</title>
+    <link>https://josh.buhler.me/tags/home-automation/</link>
+    <description>Recent content in Home Automation on Adventures Unknown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jul 2019 20:18:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://josh.buhler.me/tags/home-automation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Control4 the Garage Door</title>
+      <link>https://josh.buhler.me/post/c4-garage/</link>
+      <pubDate>Mon, 22 Jul 2019 20:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/post/c4-garage/</guid>
+      <description>When we first moved into our house, the home builder installed a set of Chamberlain myQ enabled smart garage door openers. I was excited about the possibility of being able to use my phone to make sure that our doors were closed when we were away, or to be notified if they opened when they shouldn&amp;rsquo;t. The only piece missing was that our builder did not include the network modules needed to enable the smart functionality.</description>
+    </item>
+    
+  </channel>
+</rss>

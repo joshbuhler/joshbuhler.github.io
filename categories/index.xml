@@ -6,9 +6,28 @@
     <description>Recent content in Categories on Adventures Unknown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jul 2019 20:18:19 +0000</lastBuildDate>
     
 	<atom:link href="https://josh.buhler.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Home Automation</title>
+      <link>https://josh.buhler.me/categories/home-automation/</link>
+      <pubDate>Mon, 22 Jul 2019 20:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/categories/home-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Garage</title>
+      <link>https://josh.buhler.me/categories/the-garage/</link>
+      <pubDate>Mon, 22 Jul 2019 20:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/categories/the-garage/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Life</title>
@@ -20,11 +39,11 @@
     </item>
     
     <item>
-      <title>Photos</title>
-      <link>https://josh.buhler.me/categories/photos/</link>
-      <pubDate>Sun, 23 Jul 2017 13:07:37 +0000</pubDate>
+      <title>Travel</title>
+      <link>https://josh.buhler.me/categories/travel/</link>
+      <pubDate>Fri, 26 Oct 2018 14:00:22 +0000</pubDate>
       
-      <guid>https://josh.buhler.me/categories/photos/</guid>
+      <guid>https://josh.buhler.me/categories/travel/</guid>
       <description></description>
     </item>
     
@@ -38,20 +57,11 @@
     </item>
     
     <item>
-      <title>The Garage</title>
-      <link>https://josh.buhler.me/categories/the-garage/</link>
-      <pubDate>Tue, 02 Apr 2019 20:18:19 +0000</pubDate>
+      <title>Photos</title>
+      <link>https://josh.buhler.me/categories/photos/</link>
+      <pubDate>Sun, 23 Jul 2017 13:07:37 +0000</pubDate>
       
-      <guid>https://josh.buhler.me/categories/the-garage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travel</title>
-      <link>https://josh.buhler.me/categories/travel/</link>
-      <pubDate>Fri, 26 Oct 2018 14:00:22 +0000</pubDate>
-      
-      <guid>https://josh.buhler.me/categories/travel/</guid>
+      <guid>https://josh.buhler.me/categories/photos/</guid>
       <description></description>
     </item>
     

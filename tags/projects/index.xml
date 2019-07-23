@@ -6,10 +6,19 @@
     <description>Recent content in Projects on Adventures Unknown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Apr 2019 20:18:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 20:18:19 +0000</lastBuildDate>
     
 	<atom:link href="https://josh.buhler.me/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Control4 the Garage Door</title>
+      <link>https://josh.buhler.me/post/c4-garage/</link>
+      <pubDate>Mon, 22 Jul 2019 20:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/post/c4-garage/</guid>
+      <description>When we first moved into our house, the home builder installed a set of Chamberlain myQ enabled smart garage door openers. I was excited about the possibility of being able to use my phone to make sure that our doors were closed when we were away, or to be notified if they opened when they shouldn&amp;rsquo;t. The only piece missing was that our builder did not include the network modules needed to enable the smart functionality.</description>
+    </item>
     
     <item>
       <title>A Tactical Tire Kit</title>
@@ -17,7 +26,7 @@
       <pubDate>Tue, 02 Apr 2019 20:18:19 +0000</pubDate>
       
       <guid>https://josh.buhler.me/post/tirebox/</guid>
-      <description>If you go off-road often, it&amp;rsquo;s not a matter of if, but when you&amp;rsquo;re going to need an air compressor, or some other source of compressed air. Whether it&amp;rsquo;s for airing your tires back up before returning to pavement, or refilling a repaired tire, having a compressor with you is vital.</description>
+      <description>If you go off-road often, it&amp;rsquo;s not a matter of if, but when you&amp;rsquo;re going to need an air compressor, or some other source of compressed air. Whether it&amp;rsquo;s for airing your tires back up before returning to pavement, or refilling a repaired tire, having a compressor with you is vital. Even if you don&amp;rsquo;t plan on going off-road, it&amp;rsquo;s still pretty handy being able to air up a tire now and then if you&amp;rsquo;re out and about.</description>
     </item>
     
   </channel>
