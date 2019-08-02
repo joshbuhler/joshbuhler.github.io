@@ -85,14 +85,31 @@
   </url>
   
   <url>
+    <loc>https://josh.buhler.me/tags/capitol-reef/</loc>
+    <lastmod>2018-12-01T19:16:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://josh.buhler.me/categories/life/</loc>
-    <lastmod>2018-11-04T13:18:19+00:00</lastmod>
+    <lastmod>2018-12-01T19:16:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/tags/quotes/</loc>
-    <lastmod>2018-11-04T13:18:19+00:00</lastmod>
+    <lastmod>2018-12-01T19:16:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josh.buhler.me/post/science-spirituality/</loc>
+    <lastmod>2018-12-01T19:16:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josh.buhler.me/tags/utah/</loc>
+    <lastmod>2018-12-01T19:16:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -109,12 +126,6 @@
   
   <url>
     <loc>https://josh.buhler.me/categories/travel/</loc>
-    <lastmod>2018-10-26T14:00:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://josh.buhler.me/tags/utah/</loc>
     <lastmod>2018-10-26T14:00:22+00:00</lastmod>
     <priority>0</priority>
   </url>
