@@ -4,13 +4,54 @@
   
   <url>
     <loc>https://josh.buhler.me/</loc>
-    <lastmod>2019-07-22T20:18:19+00:00</lastmod>
+    <lastmod>2019-08-25T20:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://josh.buhler.me/tags/amateur-radio/</loc>
+    <lastmod>2019-08-25T20:18:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josh.buhler.me/post/chirp/</loc>
+    <lastmod>2019-08-25T20:18:19+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://josh.buhler.me/categories/</loc>
-    <lastmod>2019-07-22T20:18:19+00:00</lastmod>
+    <lastmod>2019-08-25T20:18:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josh.buhler.me/tags/open-source/</loc>
+    <lastmod>2019-08-25T20:18:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josh.buhler.me/post/</loc>
+    <lastmod>2019-08-25T20:18:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josh.buhler.me/tags/projects/</loc>
+    <lastmod>2019-08-25T20:18:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josh.buhler.me/categories/radio/</loc>
+    <lastmod>2019-08-25T20:18:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josh.buhler.me/tags/</loc>
+    <lastmod>2019-08-25T20:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -32,31 +73,13 @@
   </url>
   
   <url>
-    <loc>https://josh.buhler.me/categories/home-automation/</loc>
-    <lastmod>2019-07-22T20:18:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://josh.buhler.me/tags/home-automation/</loc>
     <lastmod>2019-07-22T20:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://josh.buhler.me/post/</loc>
-    <lastmod>2019-07-22T20:18:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://josh.buhler.me/tags/projects/</loc>
-    <lastmod>2019-07-22T20:18:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://josh.buhler.me/tags/</loc>
+    <loc>https://josh.buhler.me/categories/home-automation/</loc>
     <lastmod>2019-07-22T20:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -153,12 +176,6 @@
   
   <url>
     <loc>https://josh.buhler.me/tags/ham-radio/</loc>
-    <lastmod>2018-09-11T00:09:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://josh.buhler.me/categories/radio/</loc>
     <lastmod>2018-09-11T00:09:55+00:00</lastmod>
     <priority>0</priority>
   </url>

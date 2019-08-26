@@ -6,10 +6,20 @@
     <description>Recent content in Projects on Adventures Unknown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jul 2019 20:18:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2019 20:18:19 +0000</lastBuildDate>
     
 	<atom:link href="https://josh.buhler.me/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CHIRP.</title>
+      <link>https://josh.buhler.me/post/chirp/</link>
+      <pubDate>Sun, 25 Aug 2019 20:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/post/chirp/</guid>
+      <description>The more I use ham radio, the more I start to fine-tune and tweak my setup. Especially when it comes to the presets on the radio in my truck. I’ve spent a lot of time collecting the info and programming it into my radio, and I’d hate to lose that.
+Mostly because I&amp;rsquo;m a giant nerd, I eventually created a Git repository to store the backups of my preset info, and have hosted it on Github.</description>
+    </item>
     
     <item>
       <title>Control4 the Garage Door</title>

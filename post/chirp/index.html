@@ -11,27 +11,27 @@
              "@id": "https:\/\/josh.buhler.me\/"
         },
         "articleSection" : "post",
-        "name" : "Getting Lost",
-        "headline" : "Getting Lost",
-        "description" : "I may not always know where I am, or exactly where I\x26rsquo;m headed, but I\x26rsquo;ve never really been lost.",
+        "name" : "CHIRP.",
+        "headline" : "CHIRP.",
+        "description" : "The more I use ham radio, the more I start to fine-tune and tweak my setup. Especially when it comes to the presets on the radio in my truck. I’ve spent a lot of time collecting the info and programming it into my radio, and I’d hate to lose that.\nMostly because I\x26rsquo;m a giant nerd, I eventually created a Git repository to store the backups of my preset info, and have hosted it on Github.",
         "inLanguage" : "en",
         "author" : "joshbuhler",
         "creator" : "joshbuhler",
         "publisher": "joshbuhler",
         "accountablePerson" : "joshbuhler",
         "copyrightHolder" : "joshbuhler",
-        "copyrightYear" : "2016",
-        "datePublished": "2016-11-14 00:32:19 \x2b0000 \x2b0000",
-        "dateModified" : "2016-11-14 00:32:19 \x2b0000 \x2b0000",
-        "url" : "https:\/\/josh.buhler.me\/post\/getting-lost\/",
-        "wordCount" : "19",
-        "image" : "https://josh.buhler.me//images/2016-11-14/01.jpg"",
-        "keywords" : [ ""Utah"","Blog" ]   
+        "copyrightYear" : "2019",
+        "datePublished": "2019-08-25 20:18:19 \x2b0000 \x2b0000",
+        "dateModified" : "2019-08-25 20:18:19 \x2b0000 \x2b0000",
+        "url" : "https:\/\/josh.buhler.me\/post\/chirp\/",
+        "wordCount" : "649",
+        "image" : "https://josh.buhler.me/images/2019-08-25/01.jpg"",
+        "keywords" : [ ""Projects"",""Amateur Radio"",""Open Source"","Blog" ]   
     }
     </script>
 
 
- <title>Getting Lost </title>
+ <title>CHIRP. </title>
 
 
 <meta name="description" content="Describe your website" />
@@ -225,102 +225,63 @@
     
     <div class="post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-design tag-standard-2 tag-tagalicious tag-travel entry full-without-featured odd excerpt-1">
 
-      <div class='featured-image lazy lazy-bg-image'  data-background="https://josh.buhler.me/images/2016-11-14/01.jpg">
+      <div class='featured-image lazy lazy-bg-image'  data-background="https://josh.buhler.me/images/2019-08-25/01.jpg">
       </div>
       
         <div class="entry-meta">
-          <span class="date">14 November 2016</span>
+          <span class="date">25 August 2019</span>
           
 
           
           <span class="category">
             <span> / </span>
 
-            <a href="/categories/photos">Photos</a>
+            <a href="/categories/radio">Radio</a>
           </span>
           
 
 
         </div>
         <div class='entry-header'>
-          <h1 class='entry-title'> Getting Lost</h1>
+          <h1 class='entry-title'> CHIRP.</h1>
         </div>
         <div class="entry-container">
           <div class="entry-content">
             <article>
               
 
+<p>The more I use ham radio, the more I start to fine-tune and tweak my setup. Especially when it comes to the presets on the radio in my truck. I’ve spent a lot of time collecting the info and programming it into my radio, and I’d hate to lose that.</p>
 
+<p>Mostly because I&rsquo;m a giant nerd, I eventually created a Git repository to store the backups of my preset info, and have hosted it on Github. I did this so that I’ll have an extra backup and can keep track of things when they change. I did this mostly for my own sanity, making sure that I know exactly where the files are stored, and that they’re easy to access. Also, so that I can have the safety net of Git, in the event that I screw something up.</p>
 
-  
+<p>However, I’m also a fan of open source and sharing, so while this isn’t code or an app, I still wanted to make this available for other folks to use. I see posts in various forums of people looking to get into ham radio that want to know what repeaters are available, or how to best organized the presets they create. I’m not going to say that my setup is the best, but it works for me, and if it gives you an idea of how to setup your stuff, go for it.</p>
 
+<p>The presets are based around how I use my radio, being based around the Salt Lake Valley. There’s a little bit of stuff for Idaho, but not a whole lot. I do have a bunch of repeaters stored that cover most of Utah for when I travel around. However, just take a look at the <a href="https://github.com/joshbuhler/RadioPresets/blob/master/Presets/Yaesu_FT-8800R/FT-8800_README.md"><code>FT-8800_README.md</code></a> file, and you’ll get a better explanation of how things are setup.</p>
 
+<h2 id="the-project">The Project</h2>
 
+<p>The repository can be <a href="https://github.com/joshbuhler/RadioPresets">found on my Github account.</a> You’ll see that there are a few folders of stuff, with the radio-specific files inside the <code>Presets</code> folder.</p>
 
+<p>I use <a href="https://chirp.danplanet.com/">CHIRP</a> to make backups of the presets on my radio, and then to upload any new files if needed.</p>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+<p>For each of my radios, in their respective folders you’ll find the CHIRP image files, as well as a <code>.csv</code> file version of the data. There&rsquo;s a text file explaining the general setup of the radio memories, and some other notes in the FT-8800 folder about how I setup that radio&rsquo;s hyper-memory stuff. Each radio&rsquo;s folder also has an Excel spreadsheet that mirrors the other files, but also has notes and other info about each memory. I use the spreadsheets to print out a paper copy that I keep in the truck and in my radio bag. These have the frequency, offset, preset name, as well as notes about where the repeater is located, general range, etc.</p>
 
+<p>You can browse the files on Github, but it&rsquo;s easier to just download them. Just find the &ldquo;Clone or download&rdquo; button on the right side of the screen, and choose &ldquo;Download ZIP&rdquo; option. Or, if you&rsquo;re a Git user, you&rsquo;ve probably already cloned the repository by now.</p>
 
+<p>The <code>.md</code> files are just Markdown text files, and any text editing app should be able to open them. But if you don&rsquo;t have an app that likes them for some reason, just change the extension to <code>.txt</code>, and you should be good.</p>
 
-<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+<p>You’ll also find some other folders in the project that aren’t specific to a radio. These are just some reference files and other useful info I’ve started to collect. I’ve actually got a lot more stuff I need to dump into these folders, I just have’t finished cleaning it up yet. It’ll get there eventually.</p>
 
-<div class="pswp__bg"></div>
+<p>Hopefully this info is useful to you, and even if you don’t use it exactly like I do, and just get some ideas from it, that’s just fine.</p>
 
-<div class="pswp__scroll-wrap">
-    
-    <div class="pswp__container">
-      <div class="pswp__item"></div>
-      <div class="pswp__item"></div>
-      <div class="pswp__item"></div>
-    </div>
-    
-    <div class="pswp__ui pswp__ui--hidden">
-    <div class="pswp__top-bar">
-      
-      <div class="pswp__counter"></div>
-      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-      <button class="pswp__button pswp__button--share" title="Share"></button>
-      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
-      
-      
-      <div class="pswp__preloader">
-        <div class="pswp__preloader__icn">
-          <div class="pswp__preloader__cut">
-            <div class="pswp__preloader__donut"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-      <div class="pswp__share-tooltip"></div>
-    </div>
-    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
-    </button>
-    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
-    </button>
-    <div class="pswp__caption">
-      <div class="pswp__caption__center"></div>
-    </div>
-    </div>
-    </div>
-</div>
+<p>73, KC6BSA.</p>
 
+<h2 id="links">Links</h2>
 
-
-<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
-<div class="box" >
-  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-    <div class="img">
-      <img itemprop="thumbnail" src="/images/2016-11-14/01.jpg" />
-    </div>
-    <a href="/images/2016-11-14/01.jpg" itemprop="contentUrl"></a>
-  </figure>
-</div>
-
-
-<p>I may not always know where I am, or exactly where I&rsquo;m headed, but I&rsquo;ve never really been lost.</p>
+<ul>
+<li>Github project: <a href="https://github.com/joshbuhler/RadioPresets">https://github.com/joshbuhler/RadioPresets</a></li>
+<li>CHIRP download: <a href="https://chirp.danplanet.com/">https://chirp.danplanet.com/</a></li>
+</ul>
 
             </article>
           </div>
@@ -330,7 +291,7 @@
 
   <div class="entry-categories"><p><span>Categories</span>
     
-    <a href="/categories/photos" title="View all posts in Photos">Photos</a>
+    <a href="/categories/radio" title="View all posts in Radio">Radio</a>
   </p>
 </div>
 
@@ -338,7 +299,11 @@
 
 <div class="entry-tags"><p><span>Tags</span>
   
-  <a href="/tags/utah" title="View all posts tagged Utah">Utah</a>
+  <a href="/tags/projects" title="View all posts tagged Projects">Projects</a>
+  
+  <a href="/tags/amateur-radio" title="View all posts tagged Amateur Radio">Amateur Radio</a>
+  
+  <a href="/tags/open-source" title="View all posts tagged Open Source">Open Source</a>
   
 
 </p></div>	</div>
@@ -537,11 +502,6 @@ title="github icon"></i>
 <script src="https://josh.buhler.me/js/jquerymigrate.js"></script>
 <script src="https://josh.buhler.me/js/production.min.js?v=1566841844"></script>
 
-
-<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-<script src="/js/load-photoswipe.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
 
 </body>
 </html>
