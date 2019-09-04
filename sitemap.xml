@@ -73,13 +73,13 @@
   </url>
   
   <url>
-    <loc>https://josh.buhler.me/tags/home-automation/</loc>
+    <loc>https://josh.buhler.me/categories/home-automation/</loc>
     <lastmod>2019-07-22T20:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://josh.buhler.me/categories/home-automation/</loc>
+    <loc>https://josh.buhler.me/tags/home-automation/</loc>
     <lastmod>2019-07-22T20:18:19+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -91,14 +91,37 @@
   </url>
   
   <url>
-    <loc>https://josh.buhler.me/post/tirebox/</loc>
-    <lastmod>2019-04-02T20:18:19+00:00</lastmod>
+    <loc>https://josh.buhler.me/tags/camping/</loc>
+    <lastmod>2019-04-16T01:02:03+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://josh.buhler.me/tags/camping/</loc>
-    <lastmod>2019-04-02T20:18:19+00:00</lastmod>
+    <loc>https://josh.buhler.me/post/escalante-2019/</loc>
+    <lastmod>2019-04-16T01:02:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://josh.buhler.me/tags/hiking/</loc>
+    <lastmod>2019-04-16T01:02:03+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josh.buhler.me/categories/travel/</loc>
+    <lastmod>2019-04-16T01:02:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josh.buhler.me/tags/utah/</loc>
+    <lastmod>2019-04-16T01:02:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josh.buhler.me/post/tirebox/</loc>
+    <lastmod>2019-04-02T20:18:19+00:00</lastmod>
   </url>
   
   <url>
@@ -131,24 +154,12 @@
   </url>
   
   <url>
-    <loc>https://josh.buhler.me/tags/utah/</loc>
-    <lastmod>2018-12-01T19:16:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://josh.buhler.me/post/what-matters/</loc>
     <lastmod>2018-11-04T13:18:19+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/tags/expedition-utah/</loc>
-    <lastmod>2018-10-26T14:00:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://josh.buhler.me/categories/travel/</loc>
     <lastmod>2018-10-26T14:00:22+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -164,7 +175,7 @@
   </url>
   
   <url>
-    <loc>https://josh.buhler.me/tags/scouts/</loc>
+    <loc>https://josh.buhler.me/tags/scouting/</loc>
     <lastmod>2018-10-24T01:33:13+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -175,12 +186,6 @@
   </url>
   
   <url>
-    <loc>https://josh.buhler.me/tags/ham-radio/</loc>
-    <lastmod>2018-09-11T00:09:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://josh.buhler.me/post/100-miles-of-heaven-and-hell/</loc>
     <lastmod>2017-09-13T14:42:10+00:00</lastmod>
   </url>
@@ -188,12 +193,6 @@
   <url>
     <loc>https://josh.buhler.me/post/cecret-lake/</loc>
     <lastmod>2017-07-23T13:07:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://josh.buhler.me/tags/hiking/</loc>
-    <lastmod>2017-07-23T13:07:37+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
