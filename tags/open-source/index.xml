@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source on Adventures Unknown</title>
@@ -18,7 +18,7 @@
       
       <guid>https://josh.buhler.me/post/chirp/</guid>
       <description>The more I use ham radio, the more I start to fine-tune and tweak my setup. Especially when it comes to the presets on the radio in my truck. I’ve spent a lot of time collecting the info and programming it into my radio, and I’d hate to lose that.
-Mostly because I&amp;rsquo;m a giant nerd, I eventually created a Git repository to store the backups of my preset info, and have hosted it on Github.</description>
+Mostly because I&#39;m a giant nerd, I eventually created a Git repository to store the backups of my preset info, and have hosted it on Github.</description>
     </item>
     
   </channel>

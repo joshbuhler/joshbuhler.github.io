@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Adventures Unknown</title>
@@ -18,7 +18,7 @@
       
       <guid>https://josh.buhler.me/post/chirp/</guid>
       <description>The more I use ham radio, the more I start to fine-tune and tweak my setup. Especially when it comes to the presets on the radio in my truck. I’ve spent a lot of time collecting the info and programming it into my radio, and I’d hate to lose that.
-Mostly because I&amp;rsquo;m a giant nerd, I eventually created a Git repository to store the backups of my preset info, and have hosted it on Github.</description>
+Mostly because I&#39;m a giant nerd, I eventually created a Git repository to store the backups of my preset info, and have hosted it on Github.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@ Mostly because I&amp;rsquo;m a giant nerd, I eventually created a Git repository
       <pubDate>Mon, 22 Jul 2019 20:18:19 +0000</pubDate>
       
       <guid>https://josh.buhler.me/post/c4-garage/</guid>
-      <description>When we first moved into our house, the home builder installed a set of Chamberlain myQ enabled smart garage door openers. I was excited about the possibility of being able to use my phone to make sure that our doors were closed when we were away, or to be notified if they opened when they shouldn&amp;rsquo;t. The only piece missing was that our builder did not include the network modules needed to enable the smart functionality.</description>
+      <description>When we first moved into our house, the home builder installed a set of Chamberlain myQ enabled smart garage door openers. I was excited about the possibility of being able to use my phone to make sure that our doors were closed when we were away, or to be notified if they opened when they shouldn&#39;t. The only piece missing was that our builder did not include the network modules needed to enable the smart functionality.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@ Mostly because I&amp;rsquo;m a giant nerd, I eventually created a Git repository
       <pubDate>Tue, 02 Apr 2019 20:18:19 +0000</pubDate>
       
       <guid>https://josh.buhler.me/post/tirebox/</guid>
-      <description>If you go off-road often, it&amp;rsquo;s not a matter of if, but when you&amp;rsquo;re going to need an air compressor, or some other source of compressed air. Whether it&amp;rsquo;s for airing your tires back up before returning to pavement, or refilling a repaired tire, having a compressor with you is vital. Even if you don&amp;rsquo;t plan on going off-road, it&amp;rsquo;s still pretty handy being able to air up a tire now and then if you&amp;rsquo;re out and about.</description>
+      <description>If you go off-road often, it&#39;s not a matter of if, but when you&#39;re going to need an air compressor, or some other source of compressed air. Whether it&#39;s for airing your tires back up before returning to pavement, or refilling a repaired tire, having a compressor with you is vital. Even if you don&#39;t plan on going off-road, it&#39;s still pretty handy being able to air up a tire now and then if you&#39;re out and about.</description>
     </item>
     
   </channel>

@@ -13,7 +13,7 @@
         "articleSection" : "post",
         "name" : "Control4 the Garage Door",
         "headline" : "Control4 the Garage Door",
-        "description" : "When we first moved into our house, the home builder installed a set of Chamberlain myQ enabled smart garage door openers. I was excited about the possibility of being able to use my phone to make sure that our doors were closed when we were away, or to be notified if they opened when they shouldn\x26rsquo;t.",
+        "description" : "When we first moved into our house, the home builder installed a set of Chamberlain myQ enabled smart garage door openers. I was excited about the possibility of being able to use my phone to make sure that our doors were closed when we were away, or to be notified if they opened when they shouldn\x27t.",
         "inLanguage" : "en",
         "author" : "joshbuhler",
         "creator" : "joshbuhler",
@@ -21,8 +21,8 @@
         "accountablePerson" : "joshbuhler",
         "copyrightHolder" : "joshbuhler",
         "copyrightYear" : "2019",
-        "datePublished": "2019-07-22 20:18:19 \x2b0000 \x2b0000",
-        "dateModified" : "2019-07-22 20:18:19 \x2b0000 \x2b0000",
+        "datePublished": "2019-07-22 20:18:19 \x2b0000 UTC",
+        "dateModified" : "2019-07-22 20:18:19 \x2b0000 UTC",
         "url" : "https:\/\/josh.buhler.me\/post\/c4-garage\/",
         "wordCount" : "2003",
         "image" : "https://josh.buhler.me/images/2019-07-22/02.jpg"",
@@ -45,9 +45,9 @@
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
-<link href="https://josh.buhler.me/css/style.css?v=1567628590" rel="stylesheet" id="theme-stylesheet" type='text/css' media='all'>
+<link href="https://josh.buhler.me/css/style.css?v=1575954164" rel="stylesheet" id="theme-stylesheet" type='text/css' media='all'>
 
-<link href="https://josh.buhler.me/css/custom.css?v=1567628590" rel="stylesheet" type='text/css' media='all'>
+<link href="https://josh.buhler.me/css/custom.css?v=1575954164" rel="stylesheet" type='text/css' media='all'>
 <link rel="shortcut icon" href="https://josh.buhler.me/img/favicon.ico" type="image/x-icon">
 <link rel="icon" href="https://josh.buhler.me/img/favicon.ico" type="image/x-icon">
 
@@ -258,8 +258,6 @@
 
 
 
-
-
   
 
 
@@ -315,37 +313,23 @@
     </div>
 </div>
 
-
-<p>When we first moved into our house, the home builder installed a set of Chamberlain myQ enabled smart garage door openers. I was excited about the possibility of being able to use my phone to make sure that our doors were closed when we were away, or to be notified if they opened when they shouldn&rsquo;t. The only piece missing was that our builder did not include the network modules needed to enable the smart functionality. I put the necessary parts on the shopping list, but never got around to ordering them, and my garage doors remained not-so-smart.</p>
-
-<p>Fast-forward a few years, and I&rsquo;m now working at <a href="http://www.control4.com">Control4</a>. I&rsquo;ve got most of my house wired up with audio, smart lighting, climate control, etc., but still haven&rsquo;t got around to taking care of those garage doors. So, I finally did something about it earlier this year. Using a couple of Control4&rsquo;s ZigBee IO devices, I was able to get both the status of my doors, as well as enable control of them via the Control4 OS.</p>
-
+<p>When we first moved into our house, the home builder installed a set of Chamberlain myQ enabled smart garage door openers. I was excited about the possibility of being able to use my phone to make sure that our doors were closed when we were away, or to be notified if they opened when they shouldn't. The only piece missing was that our builder did not include the network modules needed to enable the smart functionality. I put the necessary parts on the shopping list, but never got around to ordering them, and my garage doors remained not-so-smart.</p>
+<p>Fast-forward a few years, and I'm now working at <a href="http://www.control4.com">Control4</a>. I've got most of my house wired up with audio, smart lighting, climate control, etc., but still haven't got around to taking care of those garage doors. So, I finally did something about it earlier this year. Using a couple of Control4's ZigBee IO devices, I was able to get both the status of my doors, as well as enable control of them via the Control4 OS.</p>
 <h2 id="disclaimer">Disclaimer</h2>
-
 <blockquote>
-<p>First of all, a short disclaimer. While I do work for Control4, and am sharing how I did this, you shouldn&rsquo;t consider this any sort of official how-to guide. This is what worked for me, and your mileage may vary. It&rsquo;s been running for months with no issues, but if you&rsquo;re using Control4 at home, you should see your C4 dealer for details if you&rsquo;d like to wire up your garage. They likely have a cleaner solution than this, and they&rsquo;ll support it. This… not as likely. That said, let&rsquo;s get going on how this all works.</p>
+<p>First of all, a short disclaimer. While I do work for Control4, and am sharing how I did this, you shouldn't consider this any sort of official how-to guide. This is what worked for me, and your mileage may vary. It's been running for months with no issues, but if you're using Control4 at home, you should see your C4 dealer for details if you'd like to wire up your garage. They likely have a cleaner solution than this, and they'll support it. This… not as likely. That said, let's get going on how this all works.</p>
 </blockquote>
-
 <h2 id="about-the-zigbee-io">About the ZigBee IO</h2>
-
-<p>Here&rsquo;s what I&rsquo;m working with, <a href="https://www.control4.com/docs/product/z2io/data-sheet/english/latest/z2io-data-sheet-rev-c.pdf">from the product description</a>:</p>
-
+<p>Here's what I'm working with, <a href="https://www.control4.com/docs/product/z2io/data-sheet/english/latest/z2io-data-sheet-rev-c.pdf">from the product description</a>:</p>
 <blockquote>
-<p><em>Get the job done using Control4’s ZigBee IO. This easy-to-install solution can be configured to provide a combination of two relays or up to four contact sensors. Additionally, it provides two IR outputs, one magnetic contact sensor, and one temperature and humidity sensor, all packed into a single, small device. The ZigBee IO expands your Control4 home&rsquo;s automation capabilities, controlling devices in the home theater or garage, and anywhere inside and outside the home, with standard Control4 System Remote Controls, touch screens, or keypads.</em></p>
+<p><em>Get the job done using Control4’s ZigBee IO. This easy-to-install solution can be configured to provide a combination of two relays or up to four contact sensors. Additionally, it provides two IR outputs, one magnetic contact sensor, and one temperature and humidity sensor, all packed into a single, small device. The ZigBee IO expands your Control4 home's automation capabilities, controlling devices in the home theater or garage, and anywhere inside and outside the home, with standard Control4 System Remote Controls, touch screens, or keypads.</em></p>
 </blockquote>
-
-<p>So, this thing provides the ability to activate two relays, or monitor four contact sensors. I have two garage doors, which means that I&rsquo;ll have two contact sensors, one per door, and I&rsquo;ll need control of two relays, one for each opener. That means I needed two ZigBee IO devices. Luckily, they&rsquo;re small, and pretty affordable.</p>
-
-<h2 id="door-status-round-one">Door Status - Round One</h2>
-
-<p>The first goal of this project was to get the status of the doors, as that was my main concern. I just wanted to know if the doors were open or not, and be notified if they were open when they shouldn&rsquo;t be. My first attempt at this was getting a set of <a href="http://nycesensors.com/products/ncz3014/">Nyce tilt sensors</a>. One nice feature of these sensors is that they don&rsquo;t require any additional hardware, as they attach directly to the garage doors, and they can work with your C4 system&rsquo;s existing ZigBee network.</p>
-
-<p>However, while these things were pretty easy to setup, I found that they didn&rsquo;t quite respond as quickly as I would have liked. I was seeing several seconds of lag time between when the door would open, and when that would be reported to the C4 OS. Sure, it&rsquo;s only a few seconds, but I like speed. The other cause for delay was that the threshold for when they would register a tilt seemed to be a bit high. I attached the sensors at the top of my doors, so that they would start tilting as soon as the door opened, but I found that I would have to open my door at least a foot before these would register an open event. Not good, as that was plenty of room for someone to crawl under the door, and I&rsquo;d have no idea if the door was open or not. Ideally, I wanted to know even if doors were open by just a few inches.</p>
-
-<h2 id="door-status-round-two">Door Status - Round Two</h2>
-
-<p>For round two, that&rsquo;s when I moved to the ZigBee IO device (Z2IO). One Z2IO can be connected to up to four contact sensors, so I opted for a pair of <a href="https://www.amazon.com/gp/product/B004PARDRO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1">magnetic reed switches</a> that I picked up from Amazon. I mounted the wired side of the contact to the door frame, and the other side to the door itself. While I did have to run a wire from each magnetic switch to a Z2IO box, I liked that these things reported almost immediately, and that they would show that the door was open, even if it was only open by an inch or two. I mounted the Z2IO box to the ceiling of the garage, ran the wires up to it, and once it was added to the system, I was able to view the status of my garage doors both on the Control4 touchscreens in the house, as well as in the C4 iOS app. As an added bonus of using the Z2IO, I can also monitor the temperature of the garage, as the Z2IO has an embedded temperature and humidity sensor in it. I don&rsquo;t have HVAC in the garage, but knowing the temperature out there is still nice.</p>
-
+<p>So, this thing provides the ability to activate two relays, or monitor four contact sensors. I have two garage doors, which means that I'll have two contact sensors, one per door, and I'll need control of two relays, one for each opener. That means I needed two ZigBee IO devices. Luckily, they're small, and pretty affordable.</p>
+<h2 id="door-status--round-one">Door Status - Round One</h2>
+<p>The first goal of this project was to get the status of the doors, as that was my main concern. I just wanted to know if the doors were open or not, and be notified if they were open when they shouldn't be. My first attempt at this was getting a set of <a href="http://nycesensors.com/products/ncz3014/">Nyce tilt sensors</a>. One nice feature of these sensors is that they don't require any additional hardware, as they attach directly to the garage doors, and they can work with your C4 system's existing ZigBee network.</p>
+<p>However, while these things were pretty easy to setup, I found that they didn't quite respond as quickly as I would have liked. I was seeing several seconds of lag time between when the door would open, and when that would be reported to the C4 OS. Sure, it's only a few seconds, but I like speed. The other cause for delay was that the threshold for when they would register a tilt seemed to be a bit high. I attached the sensors at the top of my doors, so that they would start tilting as soon as the door opened, but I found that I would have to open my door at least a foot before these would register an open event. Not good, as that was plenty of room for someone to crawl under the door, and I'd have no idea if the door was open or not. Ideally, I wanted to know even if doors were open by just a few inches.</p>
+<h2 id="door-status--round-two">Door Status - Round Two</h2>
+<p>For round two, that's when I moved to the ZigBee IO device (Z2IO). One Z2IO can be connected to up to four contact sensors, so I opted for a pair of <a href="https://www.amazon.com/gp/product/B004PARDRO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;psc=1">magnetic reed switches</a> that I picked up from Amazon. I mounted the wired side of the contact to the door frame, and the other side to the door itself. While I did have to run a wire from each magnetic switch to a Z2IO box, I liked that these things reported almost immediately, and that they would show that the door was open, even if it was only open by an inch or two. I mounted the Z2IO box to the ceiling of the garage, ran the wires up to it, and once it was added to the system, I was able to view the status of my garage doors both on the Control4 touchscreens in the house, as well as in the C4 iOS app. As an added bonus of using the Z2IO, I can also monitor the temperature of the garage, as the Z2IO has an embedded temperature and humidity sensor in it. I don't have HVAC in the garage, but knowing the temperature out there is still nice.</p>
 
 <link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
 <div class="box caption-effect-fade" >
@@ -360,15 +344,10 @@
   </figure>
 </div>
 
-
 <h2 id="door-control">Door Control</h2>
-
-<p>As easy as monitoring the state was, controlling the door turned out to be a bit trickier. My original plan was to splice some wires into the wall-mounted door buttons and use the relays on a Z2IO to toggle the door openers. When I climbed up to the openers and used some jumper wires to try and toggle the doors, simulating a closing relay, the lights of the opener would just blink, and nothing would happen. After doing some online research, that&rsquo;s when I found that I couldn&rsquo;t just jump the wire connections. The myQ system requires that I use the wall buttons supplied with the openers, as they actually send a unique signal to the opener, and they don&rsquo;t simply close a circuit like some other push buttons.</p>
-
+<p>As easy as monitoring the state was, controlling the door turned out to be a bit trickier. My original plan was to splice some wires into the wall-mounted door buttons and use the relays on a Z2IO to toggle the door openers. When I climbed up to the openers and used some jumper wires to try and toggle the doors, simulating a closing relay, the lights of the opener would just blink, and nothing would happen. After doing some online research, that's when I found that I couldn't just jump the wire connections. The myQ system requires that I use the wall buttons supplied with the openers, as they actually send a unique signal to the opener, and they don't simply close a circuit like some other push buttons.</p>
 <p>Enter the spare remote.</p>
-
 <p>I had a spare remote button, as our builder gave us three remotes, but we only have two cars. The spare was paired with our openers, so I now had something that could send the appropriate signals to the openers. The trick was figuring out how to integrate this with Control4. But this is also where the fun really began.</p>
-
 
 
 <div class="box caption-effect-fade" >
@@ -383,9 +362,7 @@
   </figure>
 </div>
 
-
-<p>I popped the cover off of the remote, and with a short length of wire, began poking at the circuit board to try and determine which solder joints matched up with the buttons on the remote. Once I figured out which joints would need to be connected in order to simulate a button press on the remote, I then soldered on a short length of wire to each button. Once the connections were made, all I had to do to get the remote to send a signal to a door was to simply touch the ends of the wires together. Pro tip - once you figure out where to solder your wires, remove the battery from the remote. Don&rsquo;t be like me and have the door opening and closing over and over because you forgot to do that.</p>
-
+<p>I popped the cover off of the remote, and with a short length of wire, began poking at the circuit board to try and determine which solder joints matched up with the buttons on the remote. Once I figured out which joints would need to be connected in order to simulate a button press on the remote, I then soldered on a short length of wire to each button. Once the connections were made, all I had to do to get the remote to send a signal to a door was to simply touch the ends of the wires together. Pro tip - once you figure out where to solder your wires, remove the battery from the remote. Don't be like me and have the door opening and closing over and over because you forgot to do that.</p>
 
 
 <div class="box caption-effect-fade" >
@@ -400,9 +377,7 @@
   </figure>
 </div>
 
-
 <p>At this point, wiring the remote to the Z2IO was pretty easy. The terminals inside the device are clearly labeled, so I just connected them to the R1 and R2 terminals. Once I powered up the Z2IO and added it to the Control4 system, I was able to use my phone to open and close the doors. It worked great, but honestly, still looked a bit cheesy.</p>
-
 
 
 <div class="box caption-effect-fade" >
@@ -417,9 +392,7 @@
   </figure>
 </div>
 
-
-<p>Now that I had everything working, I disconnected the wires from the Z2IO terminals so that I could bundle things up with a bit of heatshrink tubing. I was able to get an empty shell of a Z2IO that turned out to be a perfect fit for the garage remote circuit board. Once I packaged everything up, I had a sort of stubby little nunchuck, but at least I didn&rsquo;t have any bare wires or exposed circuit boards. I took the contraption downstairs to the rack in the basement, and using a bit of adhesive velcro, stuck the thing to the side of my rack. The rack is easily in range of the garage doors, and I like that I have most of the automation gear all in one spot. And, as a bonus, I also now have a temperature sensor down in the room with the rack. While the Z2IO has its own power supply, the remote I hacked still relies on a battery, so it&rsquo;s also nice to have it in a location where accessing the battery is pretty easy.</p>
-
+<p>Now that I had everything working, I disconnected the wires from the Z2IO terminals so that I could bundle things up with a bit of heatshrink tubing. I was able to get an empty shell of a Z2IO that turned out to be a perfect fit for the garage remote circuit board. Once I packaged everything up, I had a sort of stubby little nunchuck, but at least I didn't have any bare wires or exposed circuit boards. I took the contraption downstairs to the rack in the basement, and using a bit of adhesive velcro, stuck the thing to the side of my rack. The rack is easily in range of the garage doors, and I like that I have most of the automation gear all in one spot. And, as a bonus, I also now have a temperature sensor down in the room with the rack. While the Z2IO has its own power supply, the remote I hacked still relies on a battery, so it's also nice to have it in a location where accessing the battery is pretty easy.</p>
 
 
 <div class="box caption-effect-fade" >
@@ -434,20 +407,16 @@
   </figure>
 </div>
 
-
-<p>So, not the fanciest solution, but it works, and it works well. While this setup is specific to a Control4 system, as the Z2IO will only work with Control4, if you were using a different automation system, you should still be able to use the magnetic switches or hack some wires onto a remote if you&rsquo;re so inclined, as at the end of the day, those wires are basically just extension cords for the buttons.</p>
-
+<p>So, not the fanciest solution, but it works, and it works well. While this setup is specific to a Control4 system, as the Z2IO will only work with Control4, if you were using a different automation system, you should still be able to use the magnetic switches or hack some wires onto a remote if you're so inclined, as at the end of the day, those wires are basically just extension cords for the buttons.</p>
 <h2 id="why-do-this-again">Why do this again?</h2>
-
 <p>As I mentioned earlier, there are a few reasons I wanted to do this project. In no particular order:</p>
-
 <ul>
-<li><strong>Notifications.</strong> I have my Control4 system setup to send a push notification to my phone if a door is opened and stays open for more than 15 minutes. 99% of the time when I get these notifications, it&rsquo;s cool, because I&rsquo;m the one that opened the door. But there has been a handful of times where one of the kids opened a door and didn&rsquo;t close it. Or, that we&rsquo;ve gone somewhere, and while we were driving, got a notification that we had forgotten to close the door. That leads to…</li>
-<li><strong>Remote Control.</strong> A door was left open? No problem. Use the app to close the door. Or, have a family member or friend that needs to borrow something? You don&rsquo;t have to share your garage code with them, instead you can just remotely open the door for them. We also use Control4&rsquo;s <a href="https://www.control4.com/o/intercom-anywhere">Intercom Anywhere</a>, which allows us to answer our door from anywhere. Part of the Intercom Anywhere system allows you to setup some custom buttons that are bound to your doorstation. There have been a few times where I&rsquo;ve been at work, and when the kids get home, they ring the doorbell to come in, and I can then remotely open the garage door to let the kids in. (This usually happens when the kids are too lazy to open the door themselves from the keypad.)</li>
-<li><strong>Goodnight Status.</strong> When locking up the house for the night, I&rsquo;ve got a keypad setup that displays a simple red/green LED status. When locking up the house at night, I can tell at a glance if the garage doors are closed.</li>
-<li><strong>Temperature Monitoring.</strong> I&rsquo;m a nerd, and I like to know what&rsquo;s going on. Now I can know the temperature in multiple locations throughout my home.</li>
-<li><strong>Convenience.</strong> Sure, I still use a regular door remote when pulling into the driveway, but now that my home is smart enough to know that the doors are opening, I have some programming setup to turn the lights on in the garage at night. While the openers themselves have a lightbulb, it&rsquo;s not very bright. It&rsquo;s nice being able to pull into the garage, and have the lights turn on, and have the house welcome you home.</li>
-<li><strong>It&rsquo;s fun.</strong></li>
+<li><strong>Notifications.</strong> I have my Control4 system setup to send a push notification to my phone if a door is opened and stays open for more than 15 minutes. 99% of the time when I get these notifications, it's cool, because I'm the one that opened the door. But there has been a handful of times where one of the kids opened a door and didn't close it. Or, that we've gone somewhere, and while we were driving, got a notification that we had forgotten to close the door. That leads to…</li>
+<li><strong>Remote Control.</strong> A door was left open? No problem. Use the app to close the door. Or, have a family member or friend that needs to borrow something? You don't have to share your garage code with them, instead you can just remotely open the door for them. We also use Control4's <a href="https://www.control4.com/o/intercom-anywhere">Intercom Anywhere</a>, which allows us to answer our door from anywhere. Part of the Intercom Anywhere system allows you to setup some custom buttons that are bound to your doorstation. There have been a few times where I've been at work, and when the kids get home, they ring the doorbell to come in, and I can then remotely open the garage door to let the kids in. (This usually happens when the kids are too lazy to open the door themselves from the keypad.)</li>
+<li><strong>Goodnight Status.</strong> When locking up the house for the night, I've got a keypad setup that displays a simple red/green LED status. When locking up the house at night, I can tell at a glance if the garage doors are closed.</li>
+<li><strong>Temperature Monitoring.</strong> I'm a nerd, and I like to know what's going on. Now I can know the temperature in multiple locations throughout my home.</li>
+<li><strong>Convenience.</strong> Sure, I still use a regular door remote when pulling into the driveway, but now that my home is smart enough to know that the doors are opening, I have some programming setup to turn the lights on in the garage at night. While the openers themselves have a lightbulb, it's not very bright. It's nice being able to pull into the garage, and have the lights turn on, and have the house welcome you home.</li>
+<li><strong>It's fun.</strong></li>
 </ul>
 
             </article>
@@ -658,7 +627,7 @@ title="github icon"></i>
 
 				</ul>	<div class="design-credit">
 		
-		<p>&copy; 2016-2019 Joshua Buhler</p>
+		<p>© 2016-2019 Joshua Buhler</p>
 		
 		<p>Nederburg Hugo Theme by <a href="https://appernetic.io">Appernetic</a>.</p>
 		
@@ -670,7 +639,7 @@ title="github icon"></i>
   </div>
   <script src="https://josh.buhler.me/js/jquery.min.js"></script>
 <script src="https://josh.buhler.me/js/jquerymigrate.js"></script>
-<script src="https://josh.buhler.me/js/production.min.js?v=1567628590"></script>
+<script src="https://josh.buhler.me/js/production.min.js?v=1575954164"></script>
 
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>

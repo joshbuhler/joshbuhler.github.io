@@ -1,17 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://josh.buhler.me/</loc>
     <lastmod>2019-08-25T20:18:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/tags/amateur-radio/</loc>
     <lastmod>2019-08-25T20:18:19+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://josh.buhler.me/categories/</loc>
+    <lastmod>2019-08-25T20:18:19+00:00</lastmod>
   </url>
   
   <url>
@@ -20,45 +23,33 @@
   </url>
   
   <url>
-    <loc>https://josh.buhler.me/categories/</loc>
-    <lastmod>2019-08-25T20:18:19+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://josh.buhler.me/tags/open-source/</loc>
     <lastmod>2019-08-25T20:18:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/post/</loc>
     <lastmod>2019-08-25T20:18:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/tags/projects/</loc>
     <lastmod>2019-08-25T20:18:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/categories/radio/</loc>
     <lastmod>2019-08-25T20:18:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/tags/</loc>
     <lastmod>2019-08-25T20:18:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/tags/control4/</loc>
     <lastmod>2019-07-22T20:18:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -69,31 +60,26 @@
   <url>
     <loc>https://josh.buhler.me/tags/diy/</loc>
     <lastmod>2019-07-22T20:18:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/categories/home-automation/</loc>
     <lastmod>2019-07-22T20:18:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/tags/home-automation/</loc>
     <lastmod>2019-07-22T20:18:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/categories/the-garage/</loc>
     <lastmod>2019-07-22T20:18:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/tags/camping/</loc>
     <lastmod>2019-04-16T01:02:03+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -104,19 +90,16 @@
   <url>
     <loc>https://josh.buhler.me/tags/hiking/</loc>
     <lastmod>2019-04-16T01:02:03+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/categories/travel/</loc>
     <lastmod>2019-04-16T01:02:03+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/tags/utah/</loc>
     <lastmod>2019-04-16T01:02:03+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -127,25 +110,21 @@
   <url>
     <loc>https://josh.buhler.me/tags/off-road/</loc>
     <lastmod>2019-04-02T20:18:19+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/tags/capitol-reef/</loc>
     <lastmod>2018-12-01T19:16:13+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/categories/life/</loc>
     <lastmod>2018-12-01T19:16:13+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://josh.buhler.me/tags/quotes/</loc>
     <lastmod>2018-12-01T19:16:13+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -161,7 +140,6 @@
   <url>
     <loc>https://josh.buhler.me/tags/expedition-utah/</loc>
     <lastmod>2018-10-26T14:00:22+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -177,7 +155,6 @@
   <url>
     <loc>https://josh.buhler.me/tags/scouting/</loc>
     <lastmod>2018-10-24T01:33:13+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -198,7 +175,6 @@
   <url>
     <loc>https://josh.buhler.me/categories/photos/</loc>
     <lastmod>2017-07-23T13:07:37+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -244,7 +220,6 @@
   <url>
     <loc>https://josh.buhler.me/tags/ghost-towns/</loc>
     <lastmod>2016-10-23T19:59:37+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
