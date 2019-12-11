@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Adventures Unknown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2019 20:18:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2019 20:18:19 +0000</lastBuildDate>
     
 	<atom:link href="https://josh.buhler.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ATV</title>
+      <link>https://josh.buhler.me/tags/atv/</link>
+      <pubDate>Thu, 29 Aug 2019 20:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/tags/atv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utah</title>
+      <link>https://josh.buhler.me/tags/utah/</link>
+      <pubDate>Thu, 29 Aug 2019 20:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/tags/utah/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Amateur Radio</title>
@@ -80,15 +98,6 @@
       <pubDate>Tue, 16 Apr 2019 01:02:03 +0000</pubDate>
       
       <guid>https://josh.buhler.me/tags/hiking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Utah</title>
-      <link>https://josh.buhler.me/tags/utah/</link>
-      <pubDate>Tue, 16 Apr 2019 01:02:03 +0000</pubDate>
-      
-      <guid>https://josh.buhler.me/tags/utah/</guid>
       <description></description>
     </item>
     

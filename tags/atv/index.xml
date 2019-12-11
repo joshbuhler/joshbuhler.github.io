@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ATV on Adventures Unknown</title>
+    <link>https://josh.buhler.me/tags/atv/</link>
+    <description>Recent content in ATV on Adventures Unknown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Aug 2019 20:18:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://josh.buhler.me/tags/atv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Climbing Miller Hill</title>
+      <link>https://josh.buhler.me/post/afcanyon/</link>
+      <pubDate>Thu, 29 Aug 2019 20:18:19 +0000</pubDate>
+      
+      <guid>https://josh.buhler.me/post/afcanyon/</guid>
+      <description>One of my favorite things about living in Utah is how easy it can be to get out of the city, and get outdoorsy. Last week was one of those days where Drew and I got to take advantage of that proximity to nature. With the kids back in school, Cindy took advantage of her new found freedom to head up American Fork Canyon to do some paddleboarding on Tibble Fork.</description>
+    </item>
+    
+  </channel>
+</rss>
